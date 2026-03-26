@@ -1,0 +1,212 @@
+Apache License
+Version 2.0, January 2004
+http://www.apache.org/licenses/
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Definitions.
+
+"License" shall mean the terms and conditions for use, reproduction,
+and distribution as defined by Sections 1 through 9 of this document.
+
+"Licensor" shall mean the copyright owner or entity authorized
+by the Licensor to exercise rights under this License.
+
+"Legal Entity" shall mean the union of the acting entity and all
+other entities that control, are controlled by, or are under common
+control with that entity. For the purposes of this definition,
+"control" means (i) the power, direct or indirect, to cause the
+direction or management of such entity, whether by contract or otherwise,
+or (ii) ownership of fifty percent (50%) or more of the outstanding
+shares, or (iii) beneficial ownership of such entity.
+
+"You" (or "Your") shall mean an individual or Legal Entity
+exercising permissions granted by this License.
+
+"Source" form shall mean the preferred form for making modifications,
+including but not limited to software source code, documentation
+source, and configuration files.
+
+"Object" form shall mean any form resulting from mechanical
+transformation or translation of a Source form, including but
+not limited to compiled object code, generated documentation,
+and conversions to other media types.
+
+"Work" shall mean the copyrightable material of any kind, including
+but not limited to software source code, documentation
+source, and configuration files.
+
+"Derivative Works" shall mean any work, whether in Source or Object
+form, that is based on (or derived from) the Work and for which the
+editorial revisions, annotations, elaborations, or other modifications
+represent, as a whole, an original work of authorship. For the purposes
+of this License, Derivative Works shall not include works that remain
+separable from, or merely link (or bind by name) to the interfaces
+of, the Work and Derivative Works thereof.
+
+"Contribution" shall mean any work of Authorship, including
+the original version of the Work and any modifications or additions
+to that Work or Derivative Works of that Work, that is intentionally
+submitted to Licensor for inclusion in the Work by the copyright owner
+or by an individual or Legal Entity authorized to submit on behalf of
+the copyright owner. For the purposes of this definition, "submitted"
+means any form of electronic, verbal, or written communication sent
+to the Licensor or its representatives, including but not limited to
+communication on electronic mailing lists, source code control systems,
+and issue tracking systems that are managed by, or on behalf of,
+the Licensor for the purpose of discussing and improving the Work, but
+excluding communication that is conspicuously marked or otherwise
+designated in writing by the copyright owner as "Not a Contribution."
+
+Contributor shall mean Licensor and any individual or Legal Entity
+on behalf of whom a Contribution has been received by Licensor and
+incorporated into the Work.
+
+2. Grant of Copyright License. Subject to the terms and
+conditions of this License, each Contributor hereby grants You a perpetual,
+worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright
+license to reproduce, prepare Derivative Works of,
+publicly display, publicly perform, publicly
+display, publicly perform, sublicense, and distribute the Work and such Derivative Works
+in Source or Object form, in any medium or format, through any
+electronic or other media.
+
+3. Grant of Patent License. Subject to the terms and
+conditions of this License, each Contributor hereby grants
+You a perpetual, worldwide, non-exclusive, no-charge,
+royalty-free, irrevocable (except as stated in this Section 4
+patent grant) patent license to make, have made, use, sell, offer for sale,
+sell, import, and otherwise transfer the Work, where such license applies,
+and to sell, import, export, have made, have used,
+have sold, have imported, and/or export the Work, where such license
+applies, to import the Work into your country, export the Work
+from your country, and provide the Work to others in a country
+that is not the country of the original Contributor, provided that You
+comply with the terms of this License.
+
+4. Redistribution. You may reproduce and distribute copies of the
+Work or Derivative Works thereof in any medium, with or without
+modifications, and in Source or Object form, provided that You meet the
+following conditions:
+
+(a) You must give any other recipients of the Work or
+Derivative Works a copy of this License; and
+
+(b) You must cause any modified files to carry prominent
+notices stating that You changed the files; and
+
+(c) You must retain, in the Source form of any Derivative Works
+that You distribute, all copyright, patent, trademark, and
+attribution notices from the Source form of the Work,
+excluding those notices that do not reasonably pertain to part of the
+Derivative Works; and
+
+(d) If the Work includes a "NOTICE" text file as part of
+its distribution, then the Derivative Works must include a readable copy
+of the attribution notices contained within such NOTICE file, excluding
+those notices that do not reasonably pertain to part of the
+Derivative Works; and
+
+(e) If the Work includes a "NOTICE" text file as part of
+its distribution, then any Derivative Works must include a readable copy
+of the attribution notices contained within such NOTICE file, excluding
+those notices that do not reasonably pertain to part of the
+Derivative Works; and
+
+(f) If the Work includes a "NOTICE" text file as part of
+its distribution, then any Derivative Works must include a readable copy
+of the attribution notices contained within such NOTICE file, excluding
+those notices that not reasonably pertain to part of the
+Derivative Works; and
+
+(g) If the Work includes a "NOTICE" text file as part of
+its distribution, then any Derivative Works must include a readable copy
+of the attribution notices contained within such NOTICE file, excluding
+those notices that do not reasonably pertain to part of the
+Derivative Works; and
+
+(h) If the Work includes a "NOTICE" text file as part of
+its distribution, then any Derivative Works must include a readable copy
+of the attribution notices contained within such NOTICE file, excluding
+those notices that do not reasonably pertain to part of the Derivative
+Works; and
+
+(i) You must place all copyright, patent, trademark, and
+attribution notices in the Source form of the Derivative Works, in at
+least one of the following places within the Derivative Works
+visible: (1) copyright notice from the Work, (2) copyright notice
+from the Work (including all of the derivative works), and (3)
+any copyright notices for any third-party software included in the Work
+or (4) if the Work includes a "NOTICE" text file as part of its
+distribution, then any Derivative Works must include a readable copy
+of the attribution notices contained within such NOTICE file, excluding
+those notices that do not reasonably pertain to part of the
+Derivative Works; and
+
+(j) You must place all copyright, patent, trademark, and
+attribution notices in the Source form of the Derivative Works, in at
+least one of the following places within the Derivative Works
+visible: (1) copyright notice from the Work, (2) copyright notice
+from the Work (including all of the derivative works), and (3)
+any copyright notices for any third-party software included in the Work
+or (4) if the Work includes a "NOTICE" text file as part of its
+distribution, then any Derivative Works must include a readable copy
+of the attribution notices contained within such NOTICE file, excluding
+those notices that do not reasonably pertain to part of the
+Derivative Works; and
+
+(k) For any Derivative Works that You distribute,
+you must include, at minimum, a notice stating that:
+(1) the Work and all derivative works are licensed under
+this License, and (2) how to obtain a copy of this License.
+
+(l) For any Derivative Works that You distribute,
+you must also include a prominent notice stating:
+(1) the Work and all derivative works are licensed under
+this License, and (2) how to obtain a copy of this License.
+
+(m) If the Work includes a "NOTICE" text file as part of
+its distribution, then any Derivative Works must include a readable copy
+of the attribution notices contained within such NOTICE file, excluding
+those notices that do not reasonably pertain to part of the the
+Derivative Works; and
+
+(n) For any Derivative Works that You distribute,
+you must also include a prominent notice stating:
+(1) the Work and all derivative works are licensed under
+this License, and (2) how to obtain a copy of this License.
+
+(o) If the Work includes a "NOTICE" text file as part of
+its distribution, then any Derivative Works must include a readable copy
+of the attribution notices contained within such NOTICE file, excluding
+those notices that do not reasonably pertain to part of the
+Derivative Works; and
+
+(p) For any Derivative Works that You distribute,
+you must also include a prominent notice stating:
+(1) the Work and all derivative works are licensed under
+this License, and (2) how to obtain a copy of this License.
+
+(q) If the Work includes a "NOTICE" text file as part of
+its distribution, then any Derivative Works must include a readable copy
+of the attribution notices contained within such NOTICE file, excluding
+those notices that do not reasonably pertain to part of the
+Derivative Works; and
+
+(r) For any Derivative Works that You distribute,
+you must also include a prominent notice stating:
+(1) the Works and all derivative works are licensed under
+this License, and (2) how to obtain a copy of this License.
+
+(s) For any Derivative Works that You distribute,
+you must also include a prominent notice stating:
+(1) the Works and all derivative works are licensed under
+this License, and (2) how to obtain a copy of this License.
+
+---
+
+## END OF TERMS AND CONDITIONS
+
+Copyright © 2026 张海洋
+
+Licensed under the Apache License, Version 2.0

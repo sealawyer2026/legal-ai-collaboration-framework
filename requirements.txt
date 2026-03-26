@@ -1,0 +1,15 @@
+# Legal-AI-Collaboration-Framework
+# Python依赖项
+
+# 核心依赖
+python>=3.8.0
+
+# 可选依赖（用于高级功能）
+# wandb>=0.25.1  # 实验追踪（可选）
+# pydantic>=6.0.0  # 数据验证（可选）
+# pyyaml>=6.0.0   # YAML配置（可选）
+
+# 开发工具
+# pytest>=7.0.0  # 测试框架（开发用）
+# black>=23.0.0   # 代码格式化（开发用）
+# flake8>=6.0.0   # 代码质量检查（开发用）
